@@ -4,7 +4,7 @@ Text::Schmutz - You̇r screen is quiṭe dirty, please cleȧn it.
 
 # VERSION
 
-version v0.1.0
+version v0.1.1
 
 # SYNOPSIS
 
