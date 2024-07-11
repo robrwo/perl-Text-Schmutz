@@ -13,7 +13,7 @@ use Types::Common qw( ArrayRef Bool NumRange StrLength );
 
 use experimental qw( postderef signatures );
 
-our $VERSION = 'v0.1.1';
+our $VERSION = 'v0.1.2';
 
 =encoding UTF-8
 
