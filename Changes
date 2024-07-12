@@ -1,6 +1,8 @@
 Revision history for {{ $dist->name }}:
 
 {{$NEXT}}
+  [Documentation]
+  - Minor rewording of the text.
 
 v0.1.1    2024-07-12 00:05:46+01:00 Europe/London
   - Rebuilt with new SIGNATURE.

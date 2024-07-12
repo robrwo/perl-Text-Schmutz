@@ -1,6 +1,6 @@
 package Text::Schmutz;
 
-# ABSTRACT: You̇r screen is quiṭe dirty, please cleȧn it.
+# ABSTRACT: Ỵoụr ̣Scre̒en is q̒uịt̒e di̇ṛṫẏ, pl̒e̒a̒s̒e cl̇ẹạn i̇ṭ.
 
 use v5.20;
 use utf8;
@@ -29,7 +29,8 @@ our $VERSION = 'v0.1.2';
 
 "Th̔ough̜t̒s of ḍirt spill ̵ȯve̜r to ̜yo͘ur ̜u̒nico͘de̜ ͘enabled t̵ext"
 
-This is a Perl adaptation of F<schmutz.go> by Clemens Fries <github-schmutz@xenoworld.de>.
+This is a Perl adaptation of F<schmutz.go> by Clemens Fries <github-schmutz@xenoworld.de>, from which a lot of the
+documentation comes from.
 
 =attr prob
 
