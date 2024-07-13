@@ -4,6 +4,9 @@ Revision history for {{ $dist->name }}:
   [Documentation]
   - Minor rewording of the text.
 
+  [Tests]
+  - Add author tests for clean namespaces.
+
 v0.1.1    2024-07-12 00:05:46+01:00 Europe/London
   - Rebuilt with new SIGNATURE.
 

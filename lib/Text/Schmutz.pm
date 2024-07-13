@@ -9,6 +9,8 @@ use Moo;
 
 use Types::Common qw( ArrayRef Bool NumRange StrLength );
 
+use namespace::autoclean;
+
 # RECOMMEND PREREQ: Type::Tiny::XS
 
 use experimental qw( postderef signatures );
