@@ -6,6 +6,8 @@ Revision history for {{ $dist->name }}:
 
   - Update copyright year.
 
+  - Added security policy.
+
   [Tests]
   - Add more author tests.
 
