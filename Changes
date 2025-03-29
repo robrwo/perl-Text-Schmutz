@@ -4,6 +4,8 @@ Revision history for {{ $dist->name }}:
   [Documentation]
   - Minor rewording of the text.
 
+  - Update copyright year.
+
   [Tests]
   - Add more author tests.
 

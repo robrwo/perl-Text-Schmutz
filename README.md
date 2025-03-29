@@ -94,7 +94,7 @@ The original [schmutz](https://github.com/githubert/schmutz) was written by Clem
 
 # COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2024 by Robert Rothenberg.
+This software is Copyright (c) 2024-2025 by Robert Rothenberg.
 
 This is free software, licensed under:
 
