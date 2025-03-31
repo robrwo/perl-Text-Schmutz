@@ -4,7 +4,7 @@ Text::Schmutz - Ỵoụr ̣Scre̒en is q̒uịt̒e di̇ṛṫẏ, pl̒e̒a̒s̒e
 
 # VERSION
 
-version v0.1.2
+version v0.1.3
 
 # SYNOPSIS
 

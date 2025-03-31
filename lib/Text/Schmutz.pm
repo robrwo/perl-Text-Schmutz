@@ -15,7 +15,7 @@ use namespace::autoclean;
 
 use experimental qw( postderef signatures );
 
-our $VERSION = 'v0.1.2';
+our $VERSION = 'v0.1.3';
 
 =encoding UTF-8
 
