@@ -134,6 +134,13 @@ sub mangle ( $self, $text, $prob = undef ) {
     return join( "", map { rand(1) <= $prob ? $_ . $schmutz[ int( rand($size) ) ] : $_ } split //, $text );
 }
 
+=head1 append:BUGS
+
+=head2 Reporting Security Vulnerabilities
+
+Security issues should not be reported on the bugtracker website. Please see F<SECURITY.md> for instructions how to
+report security vulnerabilities.
+
 =head1 append:AUTHOR
 
 The original L<schmutz|https://github.com/githubert/schmutz> was written by Clemens Fries <github-schmutz@xenoworld.de>.
