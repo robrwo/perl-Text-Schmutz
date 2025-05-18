@@ -6,6 +6,9 @@ Revision history for {{ $dist->name }}:
 
   - Added How to Contribute documentation.
 
+  [Tests]
+  - Add more author tests.
+
 v0.1.2    2025-03-31 17:45:41+01:00 Europe/London
   [Documentation]
   - Minor rewording of the text.
